@@ -3,3 +3,6 @@
 Coloquei essa linha no meio agora !!!
 Adicionei essa linha 2 aqui
 Adicionada linha 3 aqui
+
+Linha de Rodapé
+---------------
