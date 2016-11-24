@@ -9,11 +9,9 @@ Coloquei essa linha no meio agora !!!
 Adicionei essa linha 2 aqui
 Adicionada linha 3 aqui
 
-<<<<<<< HEAD
 RODAPE
 ------
 
 =======
 Linha de Rodapé
 ---------------
->>>>>>> ff601a1226abc069be0ea1ac41d9c3db56911ba6
