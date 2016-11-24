@@ -8,7 +8,12 @@ subTitulo
 Coloquei essa linha no meio agora !!!
 Adicionei essa linha 2 aqui
 Adicionada linha 3 aqui
+<<<<<<< HEAD
 Adicionada linha externa/pelo servidor (+detalhes na linha externa vinda do servidor do github)
+=======
+Adicionada linha externa/pelo servidor
+Adicionada linha 4, hoje quinta-feira 10:59
+>>>>>>> commit linha add 4
 
 RODAPE
 ------
